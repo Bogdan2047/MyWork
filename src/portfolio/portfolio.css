@@ -1,0 +1,17 @@
+.block-name{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 10%;
+}
+
+.block-name span{
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+    margin-left: 5%;
+}
+
+.container-card{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,169 @@
+.one-photo img{
+    width: 100%;
+}
+
+.project{
+    font-size: 40px;
+    font-weight: 300;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 5%;
+}
+
+.block-one{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+}
+
+.name-block-one{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+}
+
+.text-block-one{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 10%;
+}
+
+.img-block-one{
+    margin-left: 10%;
+}
+
+.block-two{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+}
+
+.text-block-two{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 35%;
+}
+
+.img-block-two img{
+    width: 50%;
+}
+
+.name-block-two{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+}
+
+.block-tree{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+}
+
+.name-block-tree{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+}
+
+.text-block-tree{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 35%;
+    margin-left: 10%;
+}
+
+.img-block-tree img{
+    width: 70%;
+    margin-left: 40%;
+}
+
+.slyder{
+    margin-top: 5%;
+}
+
+.slyder img{
+    width: 100%;
+    position: relative;
+}
+ 
+
+.news{
+    font-weight: 300;
+    font-size: 40px;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 5%;
+}
+
+.block-news{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.news-one{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.news-one span{
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.news-one p{
+    font-size: 20px;
+}
+
+.news-one h1{
+    font-size: 25px;
+}
+
+.news-two{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.news-two span{
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.news-two p{
+    font-size: 20px;
+}
+
+.news-two h1{
+    font-size: 25px;
+}
+
+.news-tree{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.news-tree span{
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.news-tree p{
+    font-size: 20px;
+}
+
+.news-tree h1{
+    font-size: 25px;
+}

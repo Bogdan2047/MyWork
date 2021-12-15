@@ -1,0 +1,48 @@
+.container{
+    padding-top: 10%;
+}
+
+.card-body img{
+    width: 100%;
+}
+
+.card-body p{
+    display: flex;
+    align-items: flex-start;
+    font-size: 30px;
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+.blockquote-footer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+}
+
+.block-icon{
+    display: flex;
+    flex-direction: row;
+}
+
+.block-icon img{
+    display: block;
+    width: 5%;
+    margin-left: 2%;
+}
+
+.block-icon span{
+    color: black;
+    display: flex;
+    align-items: center;
+    margin-left: 2%;
+}
+
+.post{
+    margin-top: 2%;
+}
+
+.post span{
+    align-items: flex-start;
+    font-size: 20px;
+}

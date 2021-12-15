@@ -1,0 +1,16 @@
+.card-container{
+    width: 30%;
+}
+
+.block-photo img{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-left: 25%;
+    width: 90%;
+    height: 250px;
+}
+
+.block-photo img:hover{
+    background-image: none;
+}

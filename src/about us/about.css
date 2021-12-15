@@ -1,0 +1,118 @@
+.about{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5%;
+}
+
+.about-us{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 5%;
+}
+
+.about-us span{
+    font-size: 80px;
+    font-family: 'Lobster', cursive;
+}
+
+.text-about-us{
+    width: 40%;
+    margin-left: 20%;
+}
+
+.text-about-us span{
+    display: flex;
+    align-items: flex-start;
+}
+
+.goals{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15%;
+    margin-left: 5%;
+}
+
+.goals-us span{
+    font-size: 80px;
+    font-family: 'Lobster', cursive;
+}
+
+.text-goals{
+    width: 40%;
+    margin-left: 23%;
+}
+
+.text-goals span{
+    display: flex;
+    align-items: flex-start;
+}
+
+.partners{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+   
+}
+
+.first-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.first-partner img{
+    width: 400px;
+}
+
+.first-partner span{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 30px;
+}
+
+.second-partner img{
+    width: 400px;
+}
+
+.second-partner span{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 30px;
+    margin-left: 63%;
+}
+
+.second-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+
+.tree-partner img{
+    width: 250px;
+    height: 250px;
+}
+
+.tree-partner span{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 30px;
+}
+
+.four-partner img{
+    width: 250px;
+    height: 250px;
+}
+
+.four-partner span{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 30px;
+    margin-left: 45%;
+}
